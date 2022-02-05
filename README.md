@@ -1,2 +1,2 @@
 # SynchronousCallbackWithLambda
- Synchronous callback in java
+ Synchronous callback in java using lambda expression
